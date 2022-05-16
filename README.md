@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+
+### What I have made... 🔭
+#### Threads
+
+#### API Development
+
+#### Bon Voyage
+
+#### WordWOlf
 <!--
 **astrjc0326/astrjc0326** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
