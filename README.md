@@ -14,11 +14,13 @@
 ##### Utilized: React | JavaScript | Node.js | Mongoose | 
 ##### A flight ticket searching and remaining application.
 
-#### [WordWolf](https://github.com/RFP2202-Blue-Ocean-Avengers/WordWolf)
+### [WordWolf](https://github.com/RFP2202-Blue-Ocean-Avengers/WordWolf)
 ##### Utilized: React | Next.js | JavaScript | Socket.io | Node.js | AWS
 ##### An online live time boardgame app.
 
-### What Skills I have... 🌱
+### 📫 How to Reach me....
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)(linkedin.com/in/hsin-an-wang/)
+
 <!--
 **astrjc0326/astrjc0326** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
