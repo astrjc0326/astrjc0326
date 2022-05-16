@@ -8,7 +8,9 @@
 
 #### Bon Voyage
 
-#### WordWOlf
+#### WordWolf
+
+### What Skills I have... 🌱
 <!--
 **astrjc0326/astrjc0326** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
