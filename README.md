@@ -3,8 +3,8 @@
 
 ### What I have made... 🔭
 #### [Threads](https://github.com/astrjc0326/threads)
-Utilized: React | JavaScript | Webpack | Node.js | Styled-Components | AWS
-An E-commerce activewear store.
+##### Utilized: React | JavaScript | Webpack | Node.js | Styled-Components | AWS
+##### An E-commerce activewear store.
 
 #### [API Development](https://github.com/astrjc0326/API-Development-reviews)
 Utilized: JavaScript | Node.js | PostgresSQL | Nginx | AWS
