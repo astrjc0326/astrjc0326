@@ -19,7 +19,7 @@
 ##### An online live time boardgame app.
 
 ### 📫 How to Reach me....
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)(linkedin.com/in/hsin-an-wang/)
+![LinkedIn](https://img.shields.io/badge/linkedin.com/in/hsin-an-wang/-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 <!--
 **astrjc0326/astrjc0326** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
